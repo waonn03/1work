@@ -201,6 +201,7 @@ width: 80%;
   }
   nav {
     margin: 0 auto;
+    text-align: center;
   }
   a {
     font-size: small;
