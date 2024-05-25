@@ -7,6 +7,11 @@
 /* header */
 header {
   display: flex;
+
+  width: 60%;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding: 120px;
 }
 
 h2 {
@@ -18,18 +23,15 @@ h2 {
 
   h1 {
     font-weight: normal;
-    padding-left: 400px;
-    margin: 100px 0;
+    
     font-size: 27px;
   }
 
-  nav{
-    margin-left: auto;
-  }
+  
   
   .contents {
     list-style: none;
-    margin: 80px 20px;
+    
     display: flex; 
   }
   
@@ -37,6 +39,11 @@ h2 {
    padding: 15px;
    font-weight: lighter;
    font-size: small;
+  }
+
+  .contents2 img {
+    height: 450px;
+    width: 100%;
   }
   a {
     display: block;
@@ -50,6 +57,7 @@ h2 {
   
     margin: 0 auto;
     width: 60%;
+
   }
   
   
@@ -209,8 +217,9 @@ width: 80%;
   padding: 0 10px;
  }
 
- .contents2 {
-  width: 100%; 
+ .contents2 img {
+  width: 100%;
+  height: 300px; 
  }
 
  .abc li {
