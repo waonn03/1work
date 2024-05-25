@@ -198,7 +198,7 @@ width: 80%;
     text-align: center;
     display: flex;
     width: 100%;
-    margin: 0 auto;
+    
   }
   nav {
     margin: 0 auto;
@@ -213,6 +213,7 @@ width: 80%;
 
   .contents {
     display: flex;
+    text-align: center;
   }
  .contents li {
   list-style: none;
