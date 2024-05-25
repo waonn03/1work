@@ -215,6 +215,7 @@ width: 80%;
  .contents li {
   list-style: none;
   padding: 0 10px;
+  text-align: center;
  }
 
  .contents2 img {
